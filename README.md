@@ -12,7 +12,7 @@
 - Codice docs UMA
     https://github.com/UMAprotocol/uma-docs
 
-### Riferimenti e Paper
+### Riferimenti e Paper riguardanti Mercati Predittivi Decentralizzati
 
 * https://binds.ch/papers/radmpm2025.pdf
 * https://ieeexplore.ieee.org/document/9205974
@@ -26,3 +26,7 @@
 * https://dspace.cuni.cz/bitstream/handle/20.500.11956/194870/120486571.pdf?sequence=1
 * https://arxiv.org/pdf/2510.15612
 * https://link.springer.com/chapter/10.1007/978-3-031-18679-0_12
+
+### Riferimenti e Paper riguardanti Oracoli Ottimistici
+
+* 
